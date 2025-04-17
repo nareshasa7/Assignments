@@ -33,11 +33,14 @@ public class AssignmentDataType1 {
 		
 		//Coordinates of a location (latitude, longitude): 37.7749, -122.4194
 		
-	//	double latitude = 37.7749;
-	//	double longitude = -122.4194;
+		double latitude = 37.7749;
+		double longitude = -122.4194;
 		
 		
-	//	System.out.println(latitude, longitude);
+	System.out.println(latitude + "," +longitude);
+		
+		
+		
 		
 		//Person's marital status: true or false
 		
